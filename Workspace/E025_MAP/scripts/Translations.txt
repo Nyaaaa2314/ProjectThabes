@@ -1,0 +1,11 @@
+bev::登場 bev::Entry
+bev::配置 bev::Dispo
+bev::動作 bev::Action
+bev::表情 bev::Expression
+bev::表情時間 bev::TimedExpression
+bev::フェードイン bev::FadeIn
+bev::フェードアウト bev::FadeOut
+bev::カメラ bev::Camera
+bev::全体待ち bev::WaitAll
+bev::カメラ待ち bev::WaitCamera
+bev::歩く bev::Walk

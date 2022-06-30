@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InternalFilePath>chapter_E019.tga</InternalFilePath>
+  <RealFilePath>chapter_E019.png</RealFilePath>
+  <Format>13</Format>
+  <Width>256</Width>
+  <Height>64</Height>
+  <MipLevel>1</MipLevel>
+  <Type>2</Type>
+  <Unknown>0</Unknown>
+  <BitmapSizeOffset>16</BitmapSizeOffset>
+  <Info>16384</Info>
+  <Info2>50397453</Info2>
+  <HasAlpha>true</HasAlpha>
+  <FileIndexA>0</FileIndexA>
+  <FileIndexB>0</FileIndexB>
+  <Raw>false</Raw>
+</Entry>

@@ -1,0 +1,27 @@
+event [17](8, 5, 14, 8, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+}
+
+event [17](13, 5, 14, 8, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+}
+
+event [17](7, 15, 14, 8, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+}
+
+event [17](12, 15, 14, 8, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+}
+
+event [17](2, 2, 15, 19, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+    ev::ItemGain(ev::MindGetUnit(), ev::ItemGetRandom(ev::VariableGet("宝箱１")));
+}
+
+event [17](3, 2, 15, 19, "") {
+    ev::TrickSet(ev::ArgsGetInt(0), ev::ArgsGetInt(1), ev::ArgsGetInt(2), 2);
+    ev::ItemGain(ev::MindGetUnit(), ev::ItemGetRandom(ev::VariableGet("宝箱２")));
+}
+
+event [17](0, 0, 22, 45, "") {}
