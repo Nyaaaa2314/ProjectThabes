@@ -1,1 +1,0 @@
-java -jar exc.jar -o %~n1.cmb %~n1.exl
